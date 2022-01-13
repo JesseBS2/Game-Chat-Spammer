@@ -1,2 +1,4 @@
 # Game-Chat-Spammer
-A python exe that can automatically send messages into programs.
+A Python 3 .exe file that can automatically send messages into running programs by simulating keypresses.
+
+With customizeable keys and text formatting!
